@@ -2,4 +2,4 @@
 
 ### Nome aluno(a)
 
-[comment]: <> (Luiz Eduardo Oliveira Mendes)
+- [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
